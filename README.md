@@ -33,9 +33,9 @@ It will define the buffer size for read().
 The buffer size value will be modified by your peer-evaluators and the Moulinette
 in order to test your code.
 
-:warning: We must be able to compile this project with and without the -D
+:warning: **We must be able to compile this project with and without the -D
 BUFFER_SIZE flag in addition to the usual flags. You can choose the
-default value of your choice.
+default value of your choice.**
 
 - You will compile your code as follows (a buffer size of 42 is used as an example):
 cc -Wall -Wextra -Werror -D BUFFER_SIZE=42 <files>.c
