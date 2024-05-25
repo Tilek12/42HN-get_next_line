@@ -1,8 +1,16 @@
 # 42Heilbronn :desktop_computer: :de:
 
-## Project - Get Next Line :leftwards_arrow_with_hook:
+<p align="center">
+  <img src="https://github.com/Tilek12/42-project-badges/blob/main/badges/get_next_linee.png">
+</p>
 
-### :white_check_mark: **125/125**
+<h1 align="center">
+ Project - Get Next Line :leftwards_arrow_with_hook:
+</h1>
+
+<h2 align="center">
+ :white_check_mark: 125/125
+</h2>
 
 ### :green_circle: **Mandatory Part**
 
@@ -53,7 +61,7 @@ you want to.
 
 ---------------------------------
 
-### :yellow_circle: **Bonus part**
+### :star: **Bonus part**
 
 ### :eight_pointed_black_star: **Here are the bonus part requirements:**
 - Develop get_next_line() using only one static variable.
