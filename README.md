@@ -2,9 +2,9 @@
 
 ## Project - Get Next Line :leftwards_arrow_with_hook:
 
-:white_check_mark: **125/125**
+### :white_check_mark: **125/125**
 
-:green_circle: **Mandatory Part**
+### :green_circle: **Mandatory Part**
 
 **Function name**| get_next_line
 |:---|:---|
@@ -33,9 +33,9 @@ It will define the buffer size for read().
 The buffer size value will be modified by your peer-evaluators and the Moulinette
 in order to test your code.
 
-:warning: **`We must be able to compile this project with and without the -D
+:warning: **We must be able to compile this project with and without the -D
 BUFFER_SIZE flag in addition to the usual flags. You can choose the
-default value of your choice.`**
+default value of your choice.**
 
 - You will compile your code as follows (a buffer size of 42 is used as an example):
 cc -Wall -Wextra -Werror -D BUFFER_SIZE=42 <files>.c
@@ -46,16 +46,16 @@ end of file.
 a binary file. However, you can implement a logical way to handle this behavior if
 you want to.
 
-:eight_spoked_asterisk: **Forbidden**
+### :eight_spoked_asterisk: **Forbidden**
 - You are not allowed to use your libft in this project.
 - lseek() is forbidden.
 - Global variables are forbidden.
 
 ---------------------------------
 
-:yellow_circle: **Bonus part**
+### :yellow_circle: **Bonus part**
 
-:eight_pointed_black_star: **Here are the bonus part requirements:**
+### :eight_pointed_black_star: **Here are the bonus part requirements:**
 - Develop get_next_line() using only one static variable.
 - Your get_next_line() can manage multiple file descriptors at the same time.
 For example, if you can read from the file descriptors 3, 4 and 5, you should be
