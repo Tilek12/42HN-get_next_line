@@ -1,7 +1,7 @@
 # 42Heilbronn :desktop_computer: :de:
 
 <p align="center">
-  <img src="https://github.com/Tilek12/42-project-badges/blob/main/badges/get_next_linee.png">
+  <img src="https://github.com/Tilek12/42-project-badges/blob/main/badges/get_next_linem.png">
 </p>
 
 <h1 align="center">
