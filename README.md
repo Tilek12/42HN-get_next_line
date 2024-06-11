@@ -1,4 +1,4 @@
-# 42Heilbronn :desktop_computer: :de:
+# :desktop_computer: 42Heilbronn :de:
 
 <p align="center">
   <img src="https://github.com/Tilek12/42-project-badges/blob/main/badges/get_next_linem.png">
@@ -12,7 +12,9 @@
  :white_check_mark: 125/125
 </h2>
 
-### :green_circle: **Mandatory Part**
+## :clipboard: Project info: [subject](https://github.com/Tilek12/42Heilbronn-get_next_line/blob/master/.git_docs_get_next_line/en.subject_get_next_line.pdf)
+
+## :green_circle: **Mandatory Part**
 
 **Function name**| get_next_line
 |:---|:---|
@@ -61,7 +63,7 @@ you want to.
 
 ---------------------------------
 
-### :star: **Bonus part**
+## :star: **Bonus part**
 
 ### :eight_pointed_black_star: **Here are the bonus part requirements:**
 - Develop get_next_line() using only one static variable.
